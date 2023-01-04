@@ -1,0 +1,23 @@
+.item {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+    width: 180px;
+    height: 20px;
+    border: 1px solid #edefed;
+    border-radius: 2px;
+    background: rgba(77,14,77);
+}
+.item p {
+    margin: 0;
+    font-family: "fantasy";
+    font-size: 17px;
+}
+.item button {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    padding: 2px;
+    outline: none;
+}
