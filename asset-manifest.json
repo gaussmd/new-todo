@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//gaussmd.github.io/new%20todo/static/css/main.0ab54f03.css",
+    "main.js": "/https//gaussmd.github.io/new%20todo/static/js/main.27a24bcd.js",
+    "static/js/787.5dd507e3.chunk.js": "/https//gaussmd.github.io/new%20todo/static/js/787.5dd507e3.chunk.js",
+    "index.html": "/https//gaussmd.github.io/new%20todo/index.html",
+    "main.0ab54f03.css.map": "/https//gaussmd.github.io/new%20todo/static/css/main.0ab54f03.css.map",
+    "main.27a24bcd.js.map": "/https//gaussmd.github.io/new%20todo/static/js/main.27a24bcd.js.map",
+    "787.5dd507e3.chunk.js.map": "/https//gaussmd.github.io/new%20todo/static/js/787.5dd507e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ab54f03.css",
+    "static/js/main.27a24bcd.js"
+  ]
+}
